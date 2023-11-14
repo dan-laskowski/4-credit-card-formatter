@@ -85,3 +85,16 @@
   top: 10px;
   font-size: 1.5rem;
 }
+
+.creditcard-logo {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  filter: invert(1);
+}
+
+.creditcard-chip {
+  position: absolute;
+  top: 14px;
+  left: 12px;
+}
